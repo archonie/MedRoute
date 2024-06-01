@@ -19,9 +19,7 @@
         android:theme="@style/Theme.MedRoute"
         tools:targetApi="31">
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAtnLL_m8zFwXJNfJND3PzsY0MzzB7R8j0" />
+       
         <activity
             android:name=".MainActivity"
             android:exported="true"
